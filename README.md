@@ -15,7 +15,7 @@ Este conversor permite converter diferentes moedas em tempo real, consultar hist
 
 ## 🛠 Tecnologias Utilizadas
 
-    Java (versão 24 ou superior)
+    Java 24
 
     ExchangeRateAPI (consulta das taxas de câmbio)
 
